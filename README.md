@@ -110,7 +110,7 @@ MIT License
 ## ⭐️ Feedback & Contributions
 
 - Issues and PRs are welcome!
-- Feel free to connect or [buy me a coffee](https://www.buymeacoffee.com/jmousqueton) if you find this useful.
+- Feel free to connect or [buy me a coffee](https://www.buymeacoffee.com/ransomwarelive) if you find this useful.
 
 ---
 
